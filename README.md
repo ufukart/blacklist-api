@@ -5,7 +5,7 @@
 [![Status](https://img.shields.io/badge/status-live-brightgreen)](https://blacklist.zumbo.net/health)
 [![Auth](https://img.shields.io/badge/auth-none-blue)](#)
 [![Rate Limit](https://img.shields.io/badge/rate%20limit-10%20req%2Fs-orange)](#rate-limiting)
-[![IPv6](https://img.shields.io/badge/IPv6-supported-blueviolet)](#)
+[![IPv4](https://img.shields.io/badge/IPv4-supported-blueviolet)](#)
 
 ---
 
